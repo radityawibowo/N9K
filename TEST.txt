@@ -2,4 +2,3 @@ conf t
 int gig1/1
 ip address 10.1.1.1/24
 no sh
-123
